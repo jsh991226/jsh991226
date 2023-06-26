@@ -5,4 +5,6 @@
 
 #### 열심히 하는 사람이 아닌 잘 하는 사람이 되고 싶습니다
 
-###  <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/> 유니티를 이용한 온라인 게임 : https://github.com/jsh991226/ProjectHIM
+
+# <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/> Unity 작업물
+#### [Unity와 Pun을 이용한 3D로비 및 다중 방 입장형태 온라인 게임](https://github.com/jsh991226/ProjectHIM) 
