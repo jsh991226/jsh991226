@@ -1,4 +1,4 @@
-![JSH](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Developer%20JSH&fontSize=45)
+![JSH](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Developer%20JSH&fontSize=45)
 
 # 🛠현재 깃 공사중입니다🛠
 
