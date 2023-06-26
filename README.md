@@ -1,3 +1,4 @@
+<div align=center>
 ![JSH](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Developer%20JSH&fontSize=45)
 
 # 🛠현재 깃 공사중입니다🛠
@@ -7,7 +8,6 @@
 
 #### 열심히 하는 사람이 아닌 잘 하는 사람이 되고 싶습니다
 
-<div align=center>
   
 ## 💻 Tech Stack 💻
 
@@ -23,9 +23,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=black"/>
 
-</center>
 
 <br/><br/>
 
-# <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/> Unity 작업물
+작업물
 #### [Unity와 Pun을 이용한 3D로비 및 다중 방 입장형태 온라인 게임](https://github.com/jsh991226/ProjectHIM) 
+
+
+</div>
+
