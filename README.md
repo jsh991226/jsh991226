@@ -8,9 +8,11 @@
 #### 열심히 하는 사람이 아닌 잘 하는 사람이 되고 싶습니다
 
 <div align=center>
+  
 ## 💻 Tech Stack 💻
+
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/C#-FFFFFF?style=flat&logo=csharp&logoColor=#239120"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=black"/>
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
