@@ -12,9 +12,9 @@
 ## 💻 Tech Stack 💻
 
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/C#-239120?style=flat&logo=csharp&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=black"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=black"/>
-<img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 
 
