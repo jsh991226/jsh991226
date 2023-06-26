@@ -1,3 +1,9 @@
-Hi there 👋
+# 🛠현재 깃 공사중입니다🛠
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh991226&langs_count=8)](https://github.com/jsh991226/github-readme-stats)
+
+#### 웹 풀스택 지향에서 유니티C#으로 전향하게된 학부생입니다
+
+#### 열심히 하는 사람이 아닌 잘 하는 사람이 되고 싶습니다
+
+
+
