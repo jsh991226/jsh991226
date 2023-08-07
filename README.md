@@ -2,8 +2,7 @@
   
 ![JSH](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Developer%20JSH&fontSize=45)
 
-# 🛠현재 깃 공사중입니다🛠
-
+## 👉 Human Info 👈
 
 #### 웹 백엔드 지향에서 유니티C#으로 전향하게된 학부생입니다
 
